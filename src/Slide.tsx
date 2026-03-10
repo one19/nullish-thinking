@@ -8,6 +8,7 @@ const SlideContainer = styled.div`
   height: 100vh;
   width: 100vw;
   box-sizing: border-box;
+  container-type: inline-size;
   background-color: ${({ theme }) => theme.colors.primaryBackground};
   color: ${({ theme }) => theme.colors.primary};
 `;

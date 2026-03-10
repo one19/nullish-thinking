@@ -1,7 +1,7 @@
 # Slides template repo
 
-[Deployed here](https://one19.github.io/slide-deck/)
-[Storybook deployed here](https://one19.github.io/slide-deck/storybook/)
+[Deployed here](https://one19.github.io/nullish-thinking/)
+[Storybook deployed here](https://one19.github.io/nullish-thinking/storybook/)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 Tech:
@@ -17,7 +17,7 @@ storybook
 
 Steps to use:
 1. clone template
-2. change the name from `slide-deck`
+2. change the name from `nullish-thinking`
 3. add some slides in the slides folder
 5. update the App to reference all the slides
 6. push it, and enjoy the insta-compile on gh-action
