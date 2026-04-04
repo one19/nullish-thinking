@@ -1,4 +1,3 @@
-import React from 'react';
 import type { Preview } from '@storybook/react-vite';
 import { ThemeProvider } from '@emotion/react';
 import GlobalReset from '../src/GlobalReset';
